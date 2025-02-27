@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/venom/Documents/GitHub/Low-level-Programming/Data Structures",
-      "program": "/home/venom/Documents/GitHub/Low-level-Programming/Data Structures/build/Debug/outDebug",
+      "cwd": "/home/venom/Documents/GitHub/Low-level-Programming/buffer overflow",
+      "program": "/home/venom/Documents/GitHub/Low-level-Programming/buffer overflow/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

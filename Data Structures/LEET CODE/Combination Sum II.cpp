@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include<bits/stdc++.h>
 using namespace std;
  vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
@@ -8,7 +8,6 @@ using namespace std;
         while(left < right){
             
         }
-=======
 #include<bits/stdc++.h>
 using namespace std;
  vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {

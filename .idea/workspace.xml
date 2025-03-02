@@ -19,16 +19,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8610cc25-9152-46b4-920d-46ef837be045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/Insert Delete GetRandom O(1).cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/Product of Array Except Self.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pointers/function pointer.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pointers/jump tables.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/Trapping Rain Water.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/candy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/gas station .cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/LEET CODE/Combination Sum II.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/Combination Sum II.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memory Management/Memory leak/output/valgrind1" beforeDir="false" afterPath="$PROJECT_DIR$/Memory Management/Memory leak/output/valgrind1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pointers/pointers1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Pointers/pointers1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/LEET CODE/Product of Array Except Self.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/Product of Array Except Self.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/product_of_array_except_self.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/product_of_array_except_self.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/test1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/test1.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +37,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Data Structures/LEET CODE/h-index.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pointers/jump tables.c" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -59,8 +60,11 @@
   &quot;keyToString&quot;: {
     &quot;C/C++ File.Insert Delete GetRandom O(1).cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.Product of Array Except Self.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.Trapping Rain Water.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.arithmetic pointer.c.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.best time to buy sell stock -2.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.candy.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.gas station .cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.h-index.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.jump tables.c.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
@@ -81,7 +85,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.Product of Array Except Self.cpp">
+  <component name="RunManager" selected="C/C++ File.Trapping Rain Water.cpp">
     <configuration name="Insert Delete GetRandom O(1).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="Insert Delete GetRandom O(1).cpp" CONFIG_NAME="Insert Delete GetRandom O(1).cpp">
       <option name="sourceFile" value="Data Structures/LEET CODE/Insert Delete GetRandom O(1).cpp" />
       <method v="2">
@@ -94,31 +98,31 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arithmetic pointer.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="arithmetic pointer.c" CONFIG_NAME="arithmetic pointer.c">
-      <option name="sourceFile" value="Pointers/arithmetic pointer.c" />
+    <configuration name="Trapping Rain Water.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="Trapping Rain Water.cpp" CONFIG_NAME="Trapping Rain Water.cpp">
+      <option name="sourceFile" value="Data Structures/LEET CODE/Trapping Rain Water.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="h-index.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="h-index.cpp" CONFIG_NAME="h-index.cpp">
-      <option name="sourceFile" value="Data Structures/LEET CODE/h-index.cpp" />
+    <configuration name="candy.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="candy.cpp" CONFIG_NAME="candy.cpp">
+      <option name="sourceFile" value="Data Structures/LEET CODE/candy.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jump tables.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="jump tables.c" CONFIG_NAME="jump tables.c">
-      <option name="sourceFile" value="Pointers/jump tables.c" />
+    <configuration name="gas station .cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="gas station .cpp" CONFIG_NAME="gas station .cpp">
+      <option name="sourceFile" value="Data Structures/LEET CODE/gas station .cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Trapping Rain Water.cpp" />
+        <item itemvalue="C/C++ File.candy.cpp" />
+        <item itemvalue="C/C++ File.gas station .cpp" />
         <item itemvalue="C/C++ File.Product of Array Except Self.cpp" />
         <item itemvalue="C/C++ File.Insert Delete GetRandom O(1).cpp" />
-        <item itemvalue="C/C++ File.h-index.cpp" />
-        <item itemvalue="C/C++ File.jump tables.c" />
-        <item itemvalue="C/C++ File.arithmetic pointer.c" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +140,11 @@
       <workItem from="1740561669944" duration="2492000" />
       <workItem from="1740588455970" duration="9846000" />
       <workItem from="1740628263944" duration="1364000" />
+      <workItem from="1740630958180" duration="36000" />
+      <workItem from="1740635713181" duration="1628000" />
+      <workItem from="1740673740199" duration="12182000" />
+      <workItem from="1740850971650" duration="7017000" />
+      <workItem from="1740926381646" duration="2575000" />
     </task>
     <servers />
   </component>

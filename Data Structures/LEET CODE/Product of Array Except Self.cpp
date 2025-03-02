@@ -1,19 +1,21 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-vector<int>productExceptSelf(vector<int>&nums) {
+vector<int> productitself(vector<int>&nums) {
     int n = nums.size();
     vector<int> result(n,1);
-    // compute the left prefix ->
+    int leftproduct = 1;
     for (int i = 0 ; i < n ; i++) {
-            
+        result[i] = leftproduct;
+        leftproduct *= nums[i];
+    }
+    int rightproduct = 1;
+    for (int i = n -1 ; i >= 0; i--) {
+        result[i] *= rightproduct;
+        rightproduct *= nums[i];
     }
     return result;
 }
-int main(){
-    vector<int> nums = {1,2,3,4};
-    vector<int>result = productExceptSelf(nums);
-    for (int i =0 ; i< result.size(); i++) {
-        cout << result[i] << " ";
-    }
-    return 0;
-  }
+
+int main() {
+
+}

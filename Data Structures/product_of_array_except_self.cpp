@@ -5,6 +5,7 @@ vector<int>productExceptSelf(vector<int>&nums) {
     for  (int i = 0 ; i < nums.size();i++) {
         
     }
+    
 }
 int main(){
     vector<int> nums = {1,2,3,4};

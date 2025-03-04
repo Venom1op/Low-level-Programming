@@ -19,13 +19,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8610cc25-9152-46b4-920d-46ef837be045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/Trapping Rain Water.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/candy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/gas station .cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/int to roman.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/roman to integer.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/LEET CODE/Product of Array Except Self.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/LEET CODE/Product of Array Except Self.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/product_of_array_except_self.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/product_of_array_except_self.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/test1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/test1.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +35,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Data Structures/LEET CODE/Insert Delete GetRandom O(1).cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data Structures/LEET CODE/Product of Array Except Self.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Data Structures/LEET CODE/h-index.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Pointers/jump tables.c" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -56,48 +54,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.Insert Delete GetRandom O(1).cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Product of Array Except Self.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.Trapping Rain Water.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.arithmetic pointer.c.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.best time to buy sell stock -2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.candy.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.gas station .cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.h-index.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.jump tables.c.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/venom/Documents/GitHub/Low-level-Programming&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Insert Delete GetRandom O(1).cpp.executor": "Run",
+    "C/C++ File.Product of Array Except Self.cpp.executor": "Run",
+    "C/C++ File.Trapping Rain Water.cpp.executor": "Run",
+    "C/C++ File.arithmetic pointer.c.executor": "Run",
+    "C/C++ File.best time to buy sell stock -2.cpp.executor": "Run",
+    "C/C++ File.candy.cpp.executor": "Run",
+    "C/C++ File.gas station .cpp.executor": "Run",
+    "C/C++ File.h-index.cpp.executor": "Run",
+    "C/C++ File.int to roman.cpp.executor": "Run",
+    "C/C++ File.jump tables.c.executor": "Run",
+    "C/C++ File.roman to integer.cpp.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/venom/Documents/GitHub/Low-level-Programming",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.Trapping Rain Water.cpp">
-    <configuration name="Insert Delete GetRandom O(1).cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="Insert Delete GetRandom O(1).cpp" CONFIG_NAME="Insert Delete GetRandom O(1).cpp">
-      <option name="sourceFile" value="Data Structures/LEET CODE/Insert Delete GetRandom O(1).cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Product of Array Except Self.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="Product of Array Except Self.cpp" CONFIG_NAME="Product of Array Except Self.cpp">
-      <option name="sourceFile" value="Data Structures/LEET CODE/Product of Array Except Self.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.int to roman.cpp">
     <configuration name="Trapping Rain Water.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="Trapping Rain Water.cpp" CONFIG_NAME="Trapping Rain Water.cpp">
       <option name="sourceFile" value="Data Structures/LEET CODE/Trapping Rain Water.cpp" />
       <method v="2">
@@ -116,13 +104,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="int to roman.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="int to roman.cpp" CONFIG_NAME="int to roman.cpp">
+      <option name="sourceFile" value="Data Structures/LEET CODE/int to roman.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roman to integer.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Low-level-Programming" TARGET_NAME="roman to integer.cpp" CONFIG_NAME="roman to integer.cpp">
+      <option name="sourceFile" value="Data Structures/LEET CODE/roman to integer.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.int to roman.cpp" />
+        <item itemvalue="C/C++ File.roman to integer.cpp" />
         <item itemvalue="C/C++ File.Trapping Rain Water.cpp" />
         <item itemvalue="C/C++ File.candy.cpp" />
         <item itemvalue="C/C++ File.gas station .cpp" />
-        <item itemvalue="C/C++ File.Product of Array Except Self.cpp" />
-        <item itemvalue="C/C++ File.Insert Delete GetRandom O(1).cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,10 @@
       <workItem from="1740635713181" duration="1628000" />
       <workItem from="1740673740199" duration="12182000" />
       <workItem from="1740850971650" duration="7017000" />
-      <workItem from="1740926381646" duration="2575000" />
+      <workItem from="1740926381646" duration="3633000" />
+      <workItem from="1740934962706" duration="601000" />
+      <workItem from="1741026040208" duration="633000" />
+      <workItem from="1741116476334" duration="3070000" />
     </task>
     <servers />
   </component>
